@@ -1,5 +1,6 @@
-# Influenta-venitului-per-angajat-asupra-cheltuielilor-calatoriilor-in-anul-2023
-Analiză statistică pe baza unui set de date din Eurostat, utilizând informații din 26 de țări europene pentru a studia relația dintre venitul mediu anual și cheltuielile aferente călătoriilor turistice de scurtă durată pentru anul 2023. 
-Am utilizat metode de statistică descriptivă, testarea ipotezelor și regresie liniară pentru a interpreta relația dintre variabile și pentru a formula concluzii relevante. Am analizat indicatori precum media, abaterea standard, corelația și coeficientul de determinare și am evaluat semnificația statistică a modelului.
-Scopul acestui proiect este acela de a determina daca venitul per angajat influențează cheltuielile din călătorii.
-Proiectul a dezvoltat competențe de analiză de date, interpretare statistică, lucru cu baze de date și formulare de concluzii pe baza rezultatelor obținute.
+# The Influence of Income per Employee on Travel Expenditure in 2023
+A statistical analysis based on a Eurostat dataset, using data from 26 European countries to investigate the relationship between average annual income and expenditure on short-term tourist trips in 2023.
+
+Descriptive statistics, hypothesis testing, and linear regression were used to interpret the relationship between the variables and draw relevant conclusions. Key indicators such as the mean, standard deviation, correlation coefficient, and coefficient of determination were analyzed, and the statistical significance of the model was evaluated.
+The aim of this project is to determine whether income per employee influences travel expenditure.
+The project helped develop skills in data analysis, statistical interpretation, database management, and drawing conclusions based on the results obtained.
